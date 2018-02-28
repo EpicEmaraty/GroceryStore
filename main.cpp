@@ -34,7 +34,7 @@ do {
   cout<<"==ITEMS TO BUY==";
  for( int numItems=0; numItems<5; numItems++)
  {
-  cout<<endl<<numItems+1 << "";
+  cout<<endl<<numItems+1 << " ";
 
    if(list[numItems]!="")
    {
